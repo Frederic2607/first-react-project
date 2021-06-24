@@ -1,0 +1,18 @@
+.lereacteur {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.owner,
+.reactWord,
+.reacteurWord {
+  font-weight: bold;
+}
+
+.logoReacteur,
+.logoGit {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}

@@ -1,0 +1,29 @@
+.card {
+  height: 300px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 17px;
+  box-sizing: border-box;
+}
+
+.red {
+  border: solid 10px #e30413;
+}
+
+.green {
+  border: solid 10px #3ea535;
+}
+
+.yellow {
+  border: solid 10px #ffee00;
+}
+
+.blue {
+  border: solid 10px #039fe3;
+}
+
+.salmon {
+  border: solid 10px #f8c5af;
+}
