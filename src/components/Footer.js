@@ -13,13 +13,18 @@ const Footer = () => {
           className="lereacteur"
           href="https://www.lereacteur.io"
           target="_blank"
+          rel="noreferrer"
         >
           &nbsp;
           <img src={LeReacteur} alt="LeReateur" className="logoReacteur" />
           &nbsp;
         </a>
         by <span className="owner">Frédéric Desseaux</span>&nbsp;
-        <a href="https://github.com/Frederic2607" target="_blank">
+        <a
+          href="https://github.com/Frederic2607"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src={GitHub} alt="gitHub" className="logoGit" />
         </a>
       </p>
